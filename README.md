@@ -29,6 +29,8 @@ O aplicativo foi desenvolvido usando:
 * 🐍 **Python** — linguagem principal
 * 🪟 **Tkinter** — interface gráfica (GUI)
 * 🎲 **random** — geração aleatória dos treinos
+* ## 🎥 Demonstração do App
+[![Assista ao vídeo](https://img.youtube.com/vi/Qlo_c74r27M/0.jpg)](https://www.youtube.com/watch?v=Qlo_c74r27M)
 
 ### 🔧 Lógica principal
 
